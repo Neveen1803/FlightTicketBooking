@@ -1,0 +1,402 @@
+2023-01-27T21:36:21.538347263 entered main class
+  2023-01-27T21:36:38.313379641 entered main class
+  2023-01-27T21:38:32.278752072 entered main class
+  2023-01-27T21:38:35.353839738 java.util.InputMismatchException
+  2023-01-27T21:38:35.354444464 entered main class
+  2023-01-27T21:39:06.647162197 entered main class
+  2023-01-27T21:39:08.785694320 [Ljava.lang.StackTraceElement;@5427c60c
+  2023-01-27T21:39:08.786773634 entered main class
+  2023-01-27T22:07:24.292359707 entered main class
+  2023-01-27T22:07:27.645803014Siging in
+  2023-01-27T22:07:43.353412811 entered main class
+  2023-01-27T22:07:47.725796568Siging in
+  Neveen@6383 2023-01-27T22:07:52.233071623 Successfully signed in...
+  Neveen@6383 2023-01-27T22:07:52.233251866 getting User choice
+  Neveen@6383 2023-01-27T22:08:06.835333958 getting User choice
+  Neveen@6383 2023-01-27T22:08:24.507010267 getting User choice
+  2023-01-27T22:10:17.296127974 entered main class
+  2023-01-27T23:06:31.757061650 java.util.NoSuchElementException
+  2023-01-27T23:06:31.757324476 entered main class
+  2023-01-27T23:06:31.757908173 java.util.NoSuchElementException
+  2023-01-27T23:06:31.757999472 entered main class
+  2023-01-27T23:06:31.788861700 [Ljava.lang.StackTraceElement;@15bfd87
+  2023-01-27T23:06:31.789262866 entered main class
+  2023-01-27T23:06:31.818140780 java.util.NoSuchElementException
+  2023-01-27T23:06:31.818365273 entered main class
+  2023-01-28T04:22:03.068813216 entered main class
+  2023-01-28T04:22:07.802066430Siging in
+  Neveen@6383 2023-01-28T04:22:15.056766567 Successfully signed in...
+  Neveen@6383 2023-01-28T04:22:15.056921984 getting User choice
+  Neveen@6383 2023-01-28T04:22:32.638968773 getting User choice
+  2023-01-28T04:28:58.641981761 entered main class
+  2023-01-28T04:29:01.034428434Siging in
+  Neveen@6383 2023-01-28T04:29:07.629038016 Successfully signed in...
+  Neveen@6383 2023-01-28T04:29:07.629169769 getting User choice
+  Neveen@6383 2023-01-28T04:29:09.060641223 getting User choice
+  2023-01-28T04:30:48.023980704 entered main class
+  2023-01-28T04:30:49.675887905Siging in
+  Neveen@6383 2023-01-28T04:30:56.766212361 Successfully signed in...
+  Neveen@6383 2023-01-28T04:30:56.766338920 getting User choice
+  Neveen@6383 2023-01-28T04:30:57.435175642 getting User choice
+  2023-01-28T04:32:18.812747381 entered main class
+  2023-01-28T04:32:20.424229123Siging in
+  Neveen@6383 2023-01-28T04:32:27.433351979 Successfully signed in...
+  Neveen@6383 2023-01-28T04:32:27.433485411 getting User choice
+  Neveen@6383 2023-01-28T04:32:29.031370376 getting User choice
+  2023-01-28T04:34:55.699708990 entered main class
+  2023-01-28T04:34:57.481498099Siging in
+  Neveen@6383 2023-01-28T04:35:02.936430681 Successfully signed in...
+  Neveen@6383 2023-01-28T04:35:02.936555413 getting User choice
+  Neveen@6383 2023-01-28T04:35:04.439932573 getting User choice
+  2023-01-28T04:35:33.964318112 entered main class
+  2023-01-28T04:35:35.791633811Siging in
+  Neveen@6383 2023-01-28T04:35:42.006262621 Successfully signed in...
+  Neveen@6383 2023-01-28T04:35:42.006432908 getting User choice
+  Neveen@6383 2023-01-28T04:35:43.571934433 getting User choice
+  2023-01-28T04:37:26.808368390 entered main class
+  2023-01-28T04:37:28.601801777Siging in
+  Lavanya@9361 2023-01-28T04:37:36.166350835 Successfully signed in...
+  Lavanya@9361 2023-01-28T04:37:36.166471760 getting User choice
+  Lavanya@9361 2023-01-28T04:37:38.285045460 getting User choice
+  2023-01-28T04:40:43.078288225 entered main class
+  2023-01-28T04:40:44.826849941 getting the user name
+  2023-01-28T04:40:48.223001719 entered main class
+  2023-01-28T04:40:49.303936516Siging in
+  Neveen@6383 2023-01-28T04:40:55.066966229 Successfully signed in...
+  Neveen@6383 2023-01-28T04:40:55.067088025 getting User choice
+  Neveen@6383 2023-01-28T04:40:56.205130139 getting User choice
+  2023-01-28T04:41:05.211064130 entered main class
+  2023-01-28T04:41:06.705820718Siging in
+  Lavanya@9361 2023-01-28T04:41:19.047675446 Successfully signed in...
+  Lavanya@9361 2023-01-28T04:41:19.047803652 getting User choice
+  Lavanya@9361 2023-01-28T04:41:19.977240510 getting User choice
+  2023-01-28T04:45:23.353850751 entered main class
+  2023-01-28T04:45:25.134024901Siging in
+  Neveen@6383 2023-01-28T04:45:33.740127727 Successfully signed in...
+  Neveen@6383 2023-01-28T04:45:33.740275772 getting User choice
+  Neveen@6383 2023-01-28T04:45:36.609102830 getting User choice
+  Neveen@6383 2023-01-28T04:45:48.683921949 java.util.InputMismatchException
+  Neveen@6383 2023-01-28T04:47:11.240981639 getting User choice
+  2023-01-28T04:54:48.428476680 entered main class
+  2023-01-28T04:54:54.563600999 entered main class
+  2023-01-28T04:57:54.844496173 entered main class
+  2023-01-28T04:58:00.898149780Siging in
+  Neveen@6383 2023-01-28T04:58:06.606549 Successfully signed in...
+  Neveen@6383 2023-01-28T04:58:06.606662094 getting User choice
+  Neveen@6383 2023-01-28T04:58:38.585882929 getting User choice
+  Neveen@6383 2023-01-28T04:59:33.223226829 getting User choice
+  2023-01-28T05:02:29.404649641 entered main class
+  2023-01-28T05:02:33.944319282 java.util.InputMismatchException
+  2023-01-28T05:02:33.944532737 entered main class
+  2023-01-28T05:02:36.723570013Siging in
+  Lavanya@9361 2023-01-28T05:02:46.770851484 Successfully signed in...
+  Lavanya@9361 2023-01-28T05:02:46.770970208 getting User choice
+  Lavanya@9361 2023-01-28T05:02:48.743505086 getting User choice
+  2023-01-28T05:04:51.405799684 entered main class
+  2023-01-28T05:04:54.333574028Siging in
+  Neveen@6383 2023-01-28T05:05:00.544847225 Successfully signed in...
+  Neveen@6383 2023-01-28T05:05:00.544988045 getting User choice
+  2023-01-28T05:05:21.647656862 entered main class
+  2023-01-28T05:05:24.960350776Siging in
+  Neveen@6383 2023-01-28T05:05:31.433927986 Successfully signed in...
+  Neveen@6383 2023-01-28T05:05:31.434053711 getting User choice
+  Neveen@6383 2023-01-28T05:05:33.823614743 getting User choice
+  2023-01-28T05:06:14.858929604 entered main class
+  2023-01-28T05:06:16.329851812Siging in
+  Neveen@6383 2023-01-28T05:06:24.528092205 Successfully signed in...
+  Neveen@6383 2023-01-28T05:06:24.528231586 getting User choice
+  Neveen@6383 2023-01-28T05:06:25.349289399 getting User choice
+  2023-01-28T06:04:30.023890579 entered main class
+  2023-01-28T06:04:36.082180229Siging in
+  2023-01-28T06:05:32.925219623 entered main class
+  2023-01-28T06:05:35.102136447Siging in
+  Suba@8903 2023-01-28T06:05:46.149929228 Successfully signed in...
+  2023-01-28T06:09:33.021068393 entered main class
+  2023-01-28T06:10:28.459308694Siging in
+  Suba@8903 2023-01-28T06:10:38.961635474 Successfully signed in...
+  2023-01-28T06:12:52.031664931 entered main class
+  2023-01-28T06:13:04.640070696Siging in
+  2023-01-28T06:13:23.139863365 User not found
+  Suba@8903 2023-01-28T06:13:29.527487932 Successfully signed in...
+  2023-01-28T06:17:50.305659199 entered main class
+  2023-01-28T06:17:54.324448716Siging in
+  2023-01-28T06:18:00.497324857 entered main class
+  2023-01-28T06:18:01.884883882Siging in
+  Suba@8903 2023-01-28T06:18:07.386965200 Successfully signed in...
+  2023-01-28T06:22:38.199560592 entered main class
+  2023-01-28T06:22:40.799279509Siging in
+  2023-01-28T06:22:46.338283583 entered main class
+  2023-01-28T06:22:48.181638713Siging in
+  Suba@8903 2023-01-28T06:22:54.694048060 Successfully signed in...
+  2023-01-28T06:23:18.927118685 entered main class
+  2023-01-28T06:23:21.030836183Siging in
+  Suba@8903 2023-01-28T06:23:26.760920246 Successfully signed in...
+  2023-01-28T06:29:08.676610527 entered main class
+  2023-01-28T06:29:12.778206007Siging in
+  Suba@8903 2023-01-28T06:29:19.202135033 Successfully signed in...
+  2023-01-28T06:33:19.574684364 entered main class
+  2023-01-28T06:33:21.769973628Siging in
+  Neveen@6383 2023-01-28T06:33:28.532685129 Successfully signed in...
+  Neveen@6383 2023-01-28T06:33:28.532833143 getting User choice
+  Neveen@6383 2023-01-28T06:33:29.538147634 getting User choice
+  2023-01-28T06:33:33.379025819 entered main class
+  2023-01-28T06:33:34.675955442Siging in
+  Suba@8903 2023-01-28T06:33:41.534379536 Successfully signed in...
+  2023-01-28T06:38:18.186297860 entered main class
+  2023-01-28T06:38:20.733648908Siging in
+  Suba@8903 2023-01-28T06:38:27.219786729 Successfully signed in...
+  2023-01-28T06:40:03.334406478 entered main class
+  2023-01-28T06:40:05.210069641 getting the user name
+  2023-01-28T06:40:12.460342955 getting password
+  2023-01-28T06:40:16.458107069 getting Mobile Number
+  2023-01-28T06:40:20.236895001 entered main class
+  2023-01-28T06:40:21.794374999Siging in
+  Suba@8903 2023-01-28T06:40:30.577305325 Successfully signed in...
+  2023-01-28T06:44:52.608201698 entered main class
+  2023-01-28T06:44:55.302322706Siging in
+  2023-01-28T06:45:26.802040199 entered main class
+  2023-01-28T06:45:28.597698077Siging in
+  Suba@8903 2023-01-28T06:45:34.526661463 Successfully signed in...
+  2023-01-28T09:22:02.332709062 entered main class
+  2023-01-28T09:22:08.562042918Siging in
+  Neveen@6383 2023-01-28T09:22:16.229520894 Successfully signed in...
+  Neveen@6383 2023-01-28T09:22:16.229619456 getting User choice
+  Neveen@6383 2023-01-28T09:22:20.568663504 getting User choice
+  2023-01-28T09:22:23.606890288 entered main class
+  2023-01-28T09:22:24.831715395Siging in
+  Suba@8903 2023-01-28T09:22:33.795673385 Successfully signed in...
+  2023-01-28T09:23:41.673699831 entered main class
+  2023-01-28T09:23:44.172393014Siging in
+  2023-01-28T09:24:17.493688081 User not found
+  Suba@8903 2023-01-28T09:24:23.658137643 Successfully signed in...
+  2023-01-28T09:25:11.733582243 entered main class
+  2023-01-28T09:25:13.167083158Siging in
+  Neveen@6383 2023-01-28T09:25:19.332204513 Successfully signed in...
+  Neveen@6383 2023-01-28T09:25:19.332357417 getting User choice
+  Neveen@6383 2023-01-28T09:25:24.721243759 getting User choice
+  Neveen@6383 2023-01-28T09:26:45.715799263 getting User choice
+  2023-01-28T09:39:04.795553738 entered main class
+  2023-01-28T09:39:08.189043246Siging in
+  Neveen@6383 2023-01-28T09:39:14.296311563 Successfully signed in...
+  Neveen@6383 2023-01-28T09:39:14.296439752 getting User choice
+  Neveen@6383 2023-01-28T09:39:41.837558913 getting User choice
+  2023-01-28T09:52:03.219406142 entered main class
+  2023-01-28T09:52:24.755010400Siging in
+  Neveen@6383 2023-01-28T09:52:35.552213791 Successfully signed in...
+  Neveen@6383 2023-01-28T09:52:35.552316856 getting User choice
+  2023-01-28T09:53:24.659833937 entered main class
+  2023-01-28T09:53:27.239347496Siging in
+  Neveen@6383 2023-01-28T09:53:33.707068328 Successfully signed in...
+  Neveen@6383 2023-01-28T09:53:33.707173915 getting User choice
+  Neveen@6383 2023-01-28T09:53:35.254462602 getting User choice
+  2023-01-28T09:54:00.647471518 entered main class
+  2023-01-28T09:54:02.302302822Siging in
+  Neveen@6383 2023-01-28T09:54:10.268276626 Successfully signed in...
+  Neveen@6383 2023-01-28T09:54:10.268377466 getting User choice
+  2023-01-28T10:05:32.899301827 entered main class
+  2023-01-28T10:05:38.929678373Siging in
+  Neveen@6383 2023-01-28T10:05:44.658432014 Successfully signed in...
+  Neveen@6383 2023-01-28T10:05:44.658531498 getting User choice
+  Neveen@6383 2023-01-28T10:05:45.936019176 getting User choice
+  Neveen@6383 2023-01-28T10:06:02.471176963 getting User choice
+  Neveen@6383 2023-01-28T10:06:29.332001346 getting User choice
+  Neveen@6383 2023-01-28T10:10:19.293233118 getting User choice
+  2023-01-28T10:15:54.244643489 java.util.NoSuchElementException
+  2023-01-28T10:15:54.244846493 entered main class
+  2023-01-28T10:15:54.245689276 java.util.NoSuchElementException
+  2023-01-28T10:15:54.245742432 entered main class
+  Suba@8903 2023-01-28T10:15:54.665933496 java.util.NoSuchElementException
+  Suba@8903 2023-01-28T10:15:54.666297868 java.util.NoSuchElementException
+  Suba@8903 2023-01-28T10:15:54.666455291 java.util.NoSuchElementException
+  Suba@8903 2023-01-28T10:15:54.666599159 java.util.NoSuchElementException
+  Suba@8903 2023-01-28T10:15:54.666743797 java.util.NoSuchElementException
+  2023-01-28T10:33:29.462620609 entered main class
+  2023-01-28T10:33:36.082553654Siging in
+  Neveen@6383 2023-01-28T10:33:41.913890594 Successfully signed in...
+  Neveen@6383 2023-01-28T10:33:41.914058150 getting User choice
+  Neveen@6383 2023-01-28T10:33:43.751437014 java.util.InputMismatchException
+  2023-01-28T10:36:05.011839351 entered main class
+  2023-01-28T10:36:06.525240969Siging in
+  Neveen@6383 2023-01-28T10:36:16.106069327 Successfully signed in...
+  Neveen@6383 2023-01-28T10:36:16.106214534 getting User choice
+  2023-01-28T10:36:18.537989708 entered main class
+  2023-01-28T13:17:26.520537427 entered main class
+  2023-01-28T13:17:33.557112894 getting the user name
+  2023-01-28T13:17:38.568473814 getting password
+  2023-01-28T13:17:44.524912257 getting Mobile Number
+  2023-01-28T13:17:49.304452216Passing parameter to signin
+  null 2023-01-28T13:17:49.312962067 java.sql.SQLException: Parameter index out of range (5 > number of parameters, which is 4).
+  temp@1234 2023-01-28T13:17:49.313103202 Success fully signed
+  2023-01-28T13:18:17.346302154 entered main class
+  2023-01-28T13:18:19.682424507 getting the user name
+  2023-01-28T13:18:22.581969328 getting password
+  2023-01-28T13:18:28.071880597 getting Mobile Number
+  2023-01-28T13:18:32.628884490Passing parameter to signin
+  Temp@1234 2023-01-28T13:18:32.658910498 Success fully signed
+  2023-01-28T13:22:21.778777475 entered main class
+  2023-01-28T13:22:28.043043019 getting the user name
+  2023-01-28T13:22:32.503512157 getting password
+  2023-01-28T13:22:37.568694214 getting Mobile Number
+  2023-01-28T13:22:42.006151716 The user has already exist with same details
+  2023-01-28T13:22:42.006247700 getting the user name
+  2023-01-28T13:22:47.688216194 getting password
+  2023-01-28T13:22:52.704131434 getting Mobile Number
+  2023-01-28T13:22:59.870523568Passing parameter to signin
+  summa@0987 2023-01-28T13:22:59.907249998 Success fully signed
+  2023-01-28T13:24:04.797992288 entered main class
+  2023-01-28T13:26:19.554427736 entered main class
+  2023-01-28T13:26:59.581298496 entered main class
+  2023-01-28T13:27:01.803574710 getting the user name
+  2023-01-28T13:27:04.291120092 getting password
+  2023-01-28T13:27:11.351704386 Invalid PassWord
+  2023-01-28T13:27:11.351929985 getting password
+  2023-01-28T13:27:16.588518115 getting Mobile Number
+  2023-01-28T13:27:20.133031105 Invalid Mobile Number The number should hava 10 digits and no letter and special character are accepted
+  2023-01-28T13:27:20.133325052 getting Mobile Number
+  2023-01-28T13:27:24.964722018 The user has already exist with same details
+  2023-01-28T13:27:24.964885499 getting the user name
+  2023-01-28T13:27:30.808876310 getting password
+  2023-01-28T13:27:41.115613596 getting Mobile Number
+  2023-01-28T13:27:47.528464503Passing parameter to signin
+  Summa@1234 2023-01-28T13:27:47.559719947 Success fully signed
+  2023-01-28T13:31:20.832367472 entered main class
+  2023-01-28T13:31:22.503910517 getting the user name
+  2023-01-28T13:31:25.119032266 getting password
+  2023-01-28T13:31:28.639717994 getting Mobile Number
+  2023-01-28T13:31:33.062581264Passing parameter to signin
+  Temp@1234 2023-01-28T13:31:33.093810036 Success fully signed
+  2023-01-28T13:32:00.086325059 entered main class
+  2023-01-28T13:32:15.435874772 getting the user name
+  2023-01-28T13:32:17.546341842 getting password
+  2023-01-28T13:32:23.525878487 getting Mobile Number
+  2023-01-28T13:32:28.939367408 Invalid Mobile Number The number should hava 10 digits and no letter and special character are accepted
+  2023-01-28T13:32:28.939802039 getting Mobile Number
+  2023-01-28T13:32:31.976281801 The user has already exist with same details
+  2023-01-28T13:32:31.976388056 getting the user name
+  2023-01-28T13:32:36.078911901 getting password
+  2023-01-28T13:32:40.486094158 getting Mobile Number
+  2023-01-28T13:32:46.085632721Passing parameter to signin
+  Summa @1234 2023-01-28T13:32:46.125704332 Success fully signed
+  2023-01-28T13:33:43.218062428 entered main class
+  2023-01-28T13:33:55.369306061 entered main class
+  2023-01-28T13:33:57.008689015 getting the user name
+  2023-01-28T13:34:14.139585585 entered main class
+  2023-01-28T13:34:15.482469307 getting the user name
+  2023-01-28T13:34:17.241273137 getting password
+  2023-01-28T13:34:25.288786931 getting Mobile Number
+  2023-01-28T13:34:29.465073611Passing parameter to signin
+  Summa@1234 2023-01-28T13:34:29.497935896 Success fully signed
+  Summa@1234 2023-01-28T13:34:29.498064918 getting User choice
+  Summa@1234 2023-01-28T13:35:32.892872085 getting User choice
+  Summa@1234 2023-01-28T13:35:37.566571420 getting User choice
+  Summa@1234 2023-01-28T13:35:53.812690452 getting User choice
+  Summa@1234 2023-01-28T13:35:57.122441784 getting User choice
+  2023-01-28T13:36:16.436055069 entered main class
+  2023-01-28T13:36:23.407193335Siging in
+  Neveen@6383 2023-01-28T13:36:29.603207947 Successfully signed in...
+  Neveen@6383 2023-01-28T13:36:29.603349382 getting User choice
+  Neveen@6383 2023-01-28T13:36:31.047120390 getting User choice
+  2023-01-28T13:55:56.752277306 entered main class
+  2023-01-28T13:56:02.880342449 getting the user name
+  2023-01-28T13:56:11.925990106 getting password
+  2023-01-28T13:56:18.067000104 getting Mobile Number
+  2023-01-28T13:56:22.221484114Passing parameter to signin
+  Temp@1234 2023-01-28T13:56:22.258984377 Success fully signed
+  Temp@1234 2023-01-28T13:56:22.259076416 getting User choice
+  2023-01-28T13:57:16.914803173 entered main class
+  2023-01-28T13:57:19.844005796 getting the user name
+  2023-01-28T13:57:22.505452283 getting password
+  2023-01-28T13:57:27.053801109 getting Mobile Number
+  2023-01-28T13:57:32.082278133Passing parameter to signin
+  Summa@0987 2023-01-28T13:57:32.114787095 Success fully signed
+  Summa@0987 2023-01-28T13:57:32.115141491 getting User choice
+  2023-01-28T13:58:10.730765185 entered main class
+  2023-01-28T13:58:18.446342846Siging in
+  Suba@8903 2023-01-28T13:58:24.515971436 Successfully signed in...
+  Suba@8903 2023-01-28T13:58:24.516105618 getting User choice
+  2023-01-28T13:58:42.530581699 entered main class
+  2023-01-28T13:58:45.814982169Siging in
+  Suba@8903 2023-01-28T13:58:52.392967477 Successfully signed in...
+  Suba@8903 2023-01-28T13:58:52.393111059 getting User choice
+  2023-01-28T14:02:07.132782395 entered main class
+  2023-01-28T14:02:09.826149549Siging in
+  Suba@8903 2023-01-28T14:02:15.374202521 Successfully signed in...
+  2023-01-28T14:02:19.291066956 entered main class
+  2023-01-28T14:02:24.138907475 getting the user name
+  2023-01-28T14:04:19.109308550 entered main class
+  2023-01-28T14:04:20.589348508 getting the user name
+  2023-01-28T14:04:25.057655727 getting password
+  2023-01-28T14:04:28.526699766 getting Mobile Number
+  2023-01-28T14:04:33.367199850Passing parameter to signin
+  Temp@1234 2023-01-28T14:04:33.396573652 Success fully signed
+  2023-01-28T14:04:57.803745167 entered main class
+  2023-01-28T14:05:12.390993224 getting the user name
+  2023-01-28T14:05:15.236702971 getting password
+  2023-01-28T14:05:19.595871580 getting Mobile Number
+  2023-01-28T14:05:23.830600984Passing parameter to signin
+  Temp@1234 2023-01-28T14:05:23.860710306 Success fully signed
+  Temp@1234 2023-01-28T14:05:23.861062469 getting User choice
+  2023-01-28T14:05:30.754814549 entered main class
+  2023-01-28T14:05:36.083202790Siging in
+  2023-01-28T14:05:45.041404627 User not found
+  Suba@8903 2023-01-28T14:05:59.246404272 Successfully signed in...
+  2023-01-28T14:06:25.179705121 entered main class
+  2023-01-28T14:11:39.374003733Siging in
+  Neveen@6383 2023-01-28T14:11:46.144344030 Successfully signed in...
+  Neveen@6383 2023-01-28T14:11:46.144502988 getting User choice
+  2023-01-28T14:11:49.114684582 entered main class
+  2023-01-28T15:19:12.009056902 getting the user name
+  2023-01-28T15:19:19.396202218 getting password
+  2023-01-28T15:19:25.526096620 getting Mobile Number
+  2023-01-28T15:19:34.810647105Passing parameter to signin
+  Balakrishnan@9361 2023-01-28T15:19:34.839589023 Success fully signed
+  Balakrishnan@9361 2023-01-28T15:19:34.839978299 getting User choice
+  Balakrishnan@9361 2023-01-28T15:20:38.610867760 getting User choice
+  Balakrishnan@9361 2023-01-28T15:20:50.403164672 getting User choice
+  2023-01-28T15:21:01.850885481 entered main class
+  2023-01-28T15:21:04.496502001Siging in
+  Neveen@6383 2023-01-28T15:21:09.954231738 Successfully signed in...
+  Neveen@6383 2023-01-28T15:21:09.954363936 getting User choice
+  Neveen@6383 2023-01-28T15:21:46.205153749 getting User choice
+  Neveen@6383 2023-01-28T15:22:06.779623945 getting User choice
+  Neveen@6383 2023-01-28T15:22:35.687123902 getting User choice
+  2023-01-28T15:22:40.988835577 entered main class
+  2023-01-28T15:22:46.084281436Siging in
+  Suba@8903 2023-01-28T15:22:52.040287631 Successfully signed in...
+  Suba@8903 2023-01-28T15:24:33.779273307 java.util.InputMismatchException
+  2023-01-28T15:24:33.779412733 entered main class
+  2023-01-30T11:07:59.720372874 java.util.NoSuchElementException
+  2023-01-30T11:07:59.720590049 entered main class
+  2023-01-30T11:07:59.745659365 java.util.NoSuchElementException
+  2023-01-30T11:07:59.745855205 entered main class
+  2023-01-30T11:07:59.770461892 java.util.NoSuchElementException
+  2023-01-30T11:07:59.770659997 entered main class
+  2023-01-30T11:07:59.796750497 entered main class
+  2023-01-30T11:07:59.797941001 java.util.NoSuchElementException
+  2023-01-30T11:07:59.797999212 entered main class
+  2023-01-30T11:07:59.814559230 entered main class
+  2023-01-30T11:07:59.837829573 entered main class
+  2023-01-30T11:07:59.862295871 entered main class
+  2023-01-30T11:07:59.888525978 entered main class
+  2023-01-30T11:07:59.974882339 entered main class
+  2023-01-30T11:07:59.998030937 java.util.NoSuchElementException
+  2023-01-30T11:07:59.998148886 entered main class
+  2023-02-08T14:57:46.523800736 entered main class
+  2023-02-08T14:57:58.409189307 getting the user name
+  2023-02-08T14:58:00.858629854 getting password
+  2023-02-08T14:58:04.599275004 getting Mobile Number
+  2023-02-08T14:58:07.967931498 The user has already exist with same details
+  2023-02-08T14:58:07.968019969 getting the user name
+  2023-02-08T14:58:14.796576055 getting password
+  2023-02-08T14:58:21.098801993 getting Mobile Number
+  2023-02-08T14:58:24.523189835Passing parameter to signin
+  vijay@0987 2023-02-08T14:58:24.567307739 Success fully signed
+  vijay@0987 2023-02-08T14:58:24.567437089 getting User choice
+  vijay@0987 2023-02-08T14:58:27.027723222 getting User choice
+  vijay@0987 2023-02-08T14:58:56.990622569 getting User choice
+  2023-02-08T15:05:14.151633148 entered main class
+  2023-02-08T15:05:14.153066252 java.util.NoSuchElementException
+  2023-02-08T15:05:14.153122327 entered main class
+  2023-02-08T15:05:14.153765825 java.util.NoSuchElementException
+  2023-02-08T15:05:14.153807234 entered main class
+  
